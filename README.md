@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaibhav patil
-- 👀 I’m interested in learn how things work.
+- 👀 I’m interested in learning how things work.
 - 🌱 I’m currently pursuing engineering
 - 💞️ I’m looking to collaborate on coding and inventing projects
 - 📫 How to reach me vaibhavrpatilmanu@gmail.com
