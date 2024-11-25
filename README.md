@@ -11,7 +11,7 @@ I am a passionate B.E IT graduate from BEC Bagalkot, driven by a curiosity for t
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,reactjs,nodejs,c,cpp,arduino,perl,linux" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,c,cpp,arduino,perl,linux" />
   </a>
 </p>
 
